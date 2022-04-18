@@ -1,6 +1,7 @@
 # LAB1-POO
 /** DEL LABO 2
-----buscar en oracle 
+----buscar en oracle
+----buscar UMlet
 PREGUNTA 1
 package lab2pregunta1;
 import javax.swing.JOptionPane;
